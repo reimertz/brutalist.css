@@ -1,0 +1,22 @@
+{
+  "name": "brutalist",
+  "version": "0.0.1",
+  "description": "if you want to turn any homepage into a brutalist homepage.",
+  "homepage": "https://brutalistcss.com",
+  "main": "/dist/latest/brutalist.latest.css",
+  "author": "Pierre Reimertz <pierre@pierrereimertz.com>",
+  "keywords": [
+    "brutalist",
+    "css",
+    "stupid"
+  ],
+  "main": [
+    "dist/latest/css/brutalist.latest.css"
+  ],
+  "ignore": [
+  "node-modules/**",
+  "CNAME"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
