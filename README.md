@@ -6,7 +6,7 @@ if you want to turn any homepage into a brutalist homepage.
 ##Installation
 
 ```
-npm install brutalist.css
+npm install brutalist
 ```
 
 ##Usage
